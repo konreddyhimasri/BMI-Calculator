@@ -1,2 +1,2 @@
-# Oasis project 1
+# Oasis
 Projects done in Oasis Infobyte Python Internship
