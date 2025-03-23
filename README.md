@@ -10,6 +10,8 @@ BMI Calculation – Computes BMI using the formula:
 
 ![Image](https://github.com/user-attachments/assets/afce3c09-0ec9-44a0-a4aa-9e836e4247f7)
 ​
+
+
 **BMI Classification – Categorizes BMI into four groups:**
 
 Underweight: BMI < 18.5
